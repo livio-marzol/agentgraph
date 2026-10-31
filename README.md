@@ -1,8 +1,3 @@
-Aqui está um README.md completo, profissional e pronto para impressionar
-recrutadores e a comunidade no GitHub e LinkedIn.
-
-Basta abrir o arquivo README.md no VS Code, substituir todo o conteúdo dele pelo
-texto abaixo e salvar:
 
 # 🧠 AgentGraph - AI Thought & Reasoning Inspector
 
