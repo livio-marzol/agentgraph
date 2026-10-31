@@ -1,0 +1,6 @@
+{
+  "name": "AgentGraph - AI Thought & Reasoning Inspector",
+  "description": "Interactive observability and real-time visualization of autonomous AI agent reasoning, planning, tool executions, and self-correction cycles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
